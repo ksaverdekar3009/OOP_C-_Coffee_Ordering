@@ -1,5 +1,4 @@
-# Project Description: Cafe Management System 
-The Cafe Management System is a console-based application designed to simulate and manage operations in a cafe environment, specifically themed around Starbucks. Built using C++ with an emphasis on object-oriented programming principles, the system facilitates menu display, order placement, and customer interaction, ensuring a seamless user experience.
+The Coffee Ordering System is a console-based application designed to simulate and manage operations in a cafe environment, specifically themed around Starbucks. Built using C++ with an emphasis on object-oriented programming principles, the system facilitates menu display, order placement, and customer interaction, ensuring a seamless user experience.
 
 Features:
 Menu showcasing items with details such as item number, name, price, and stock availability.
